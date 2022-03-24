@@ -4,7 +4,7 @@
 
 ## Overview
 
-EazieBook is an app used to rent gear such as Boats, ATVs, jetskis, and more, with different authentication levels for renter, client, and administrator. The functionality of the different authentication levels is broken down below. 
+EazieBook is an app used to rent gear such as Boats, ATVs, jetskis, and more, with different authentication levels for renter, client, and administrator. The functionality and description of each authentication levels has been broken down below. 
 
 - Renter
 1. Log in or register as a renter
@@ -16,16 +16,16 @@ EazieBook is an app used to rent gear such as Boats, ATVs, jetskis, and more, wi
 7. Navigate back to the home page to book another item!
 
 - Client
-1. Log in with your auth information provided by hong and dean 
+1. Log in with your auth information provided by Hong and Dean 
 2. View a list of your bookable items upon logging in, click your desired item to view its details
-3. Once on the detail page, click the right and left arrows to cycle through photos of your specified bookable items, or click return to bookable item list to navigate back to the home page. 
-4. Click View List > Renter Info to see a list of everyone who's rented your bookable items. 
+3. Once on the detail page, browse through the photos of the specified bookable items, or click return to bookable item list to navigate back to the home page. 
+4. Hover over 'View List' to -> 'Renter Info' to see a list of all renters that have rented bookable item.
 
 - Admin (Hong and Dean only)
-1. Upon logging in you'll see a complete list of every client in the database as well as their contact info and website url. For each client, there's also a button which allows you to see all their associated bookable items, edit the client's info, or delete the client from the database altogether. 
-2. Select Manage > Add a Client to invoke the invite client form, which allows you to input client info and add it to the database. 
-3. Select Manage > Add bookable item to invoke the bookable item which allows you to add a bookable item to the database and assign it to a specific category. 
-4. Select open bookable items, and click add photo to add multiple photos to a specific bookable item. 
+1. Upon logging in, the admin will view a complete list of every client in the database as well as their contact info and website url. For each client, the admin can delete or edit the credentials of any company. There is also a button on the row of each company name that brings the admin to a list view of all the assciated bookable items. 
+2. Upon Hovering over Manage from the Nav Bar > and selecting 'Add a Client', the admin will be brought to the invite client form.
+3. Upon Hovering over Manage from the Nav Bar > selection of 'Add bookable Item' the admin will be brought to a form for addition a new bookable item. This will add the corresponding item to the database. 
+4. Select 'Open Bookable Items', and click 'Add Photo' to add multiple photos for a specific bookable item.  
 
 ## Screenshots
 
@@ -85,5 +85,5 @@ This application uses the following technologies:
 
 ## Acknowledgements
 
-Thanks to our clients Hong and Dean for giving us the idea for Eaziebook! We would also like to thank Prime Academy and our instructor, Edan Schwartz, for providing us with a space that allowed us to complete this project. 
+Thanks to our clients Hong and Dean for giving us the idea for Eaziebook! We would also like to thank Prime Digital Academy and to our instructor, Edan Schwartz, for providing us with a space that allowed us to complete this project. 
 
